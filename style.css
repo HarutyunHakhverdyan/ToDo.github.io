@@ -1,0 +1,34 @@
+#divCont1{
+     background-color: #f44336;
+     padding-top: 30px
+}
+h2{
+	display: flex;
+	justify-content: center;
+}
+#divItem1{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 70px
+}
+#input{
+	width: 60%;
+	height: 30px;
+	font-size: 20px
+}
+#button{
+	width: 20%;
+	height: 30px;
+	font-size: 20px
+}
+.newDiv{
+	background-color: #b1abab;
+    display: flex;
+
+}
+#newdivContId{
+	display: flex;
+	flex-direction: row;
+	border:1px solid black;
+}
